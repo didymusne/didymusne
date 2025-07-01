@@ -4,10 +4,10 @@ I'm a graduate from the National University of Singapore with a Bachelor of Comp
 
 <!-- Contact Buttons -->
 <p align="center">
-  <a href="mailto:dnezhijian@gmail.com" target="_blank">
+  <a href="mailto:didymusne@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/didymus-ne" target="_blank">
+  <a href="https://www.linkedin.com/in/didymusne" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
