@@ -3,7 +3,7 @@
 I'm a graduate from the National University of Singapore with a Bachelor of Computing (Hons) in Computer Science and a Bachelor of Business Administration (Hons) in Finance.
 
 <!-- Contact Buttons -->
-<p align="center">
+<p align="left">
   <a href="mailto:didymusne@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
